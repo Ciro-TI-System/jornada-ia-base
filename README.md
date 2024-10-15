@@ -18,6 +18,7 @@ Jornada
   <img src=".github/Destino.jpg" width="45%">
   <img src=".github/Contato.jpg" width="45%">
 </p>
+</div>
 
 <br>
 
@@ -25,11 +26,11 @@ Jornada
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- **[HTML](#)**
-- **[CSS](#)**
-- **[IA](#)**
-- **[Figma](#)**
-- **[BEM](#)**
+- **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
+- **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
+- **[IA](https://chatgpt.com/?model=gpt-4o)**
+- **[Figma](https://figma.com)**
+- **[BEM](https://getbem.com/)**
 
 <br>
 
